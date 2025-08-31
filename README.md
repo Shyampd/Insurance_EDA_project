@@ -1,8 +1,8 @@
-Insurance Charges Prediction Project
+# Insurance Charges Prediction Project
 
 This project focuses on predicting medical insurance charges based on customer attributes such as age, BMI, smoking habits, and region.
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset used is insurance.csv, which contains:
 
@@ -20,7 +20,7 @@ region: Residential region
 
 charges: Individual medical costs billed
 
-🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 Checked dataset shape, null values, and summary statistics
 
@@ -30,7 +30,7 @@ Visualized relationships using Seaborn & Matplotlib
 
 Correlation heatmap of numerical variables
 
-🛠 Data Cleaning & Preprocessing
+## 🛠 Data Cleaning & Preprocessing
 
 Label encoding for categorical variables
 
@@ -38,7 +38,7 @@ One-hot encoding for region
 
 Feature scaling where required
 
-🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 Implemented models:
 
@@ -46,7 +46,7 @@ Linear Regression
 
 Models were evaluated using metrics such as R² Score, RMSE, MAE.
 
-📌 Project Workflow
+## 📌 Project Workflow
 
 Data Loading
 
@@ -60,7 +60,7 @@ Model Training & Hyperparameter Tuning
 
 Model Evaluation & Comparison
 
-⚙️ Requirements
+## ⚙️ Requirements
 
 Python
 
